@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn btre.wsgi --log-file -
