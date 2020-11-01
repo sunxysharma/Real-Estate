@@ -161,5 +161,7 @@ EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 
+ALLOWED_HOSTS = ['realproperty.herokuapp.com','127.0.0.1']
+
 # Activate Django-Heroku.
 # django_heroku.settings(locals())
