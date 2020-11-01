@@ -14,6 +14,7 @@ from pathlib import Path
 import dotenv
 import dj_database_url
 
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 
@@ -159,3 +160,6 @@ EMAIL_POST = 587
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
+
+# Activate Django-Heroku.
+# django_heroku.settings(locals())
