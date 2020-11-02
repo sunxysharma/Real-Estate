@@ -1,0 +1,1025 @@
+[
+{
+    "model": "listings.listing",
+    "pk": 1,
+    "fields": {
+        "realtor": 1,
+        "title": "15  R govind nagar",
+        "address": "15 R govind nagar",
+        "city": "ambala cantt",
+        "state": "haryana",
+        "zipcode": "133001",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 3900000,
+        "bedrooms": 4,
+        "bathrooms": "2.0",
+        "garage": 3,
+        "sqft": 232,
+        "lot_size": "2.3",
+        "photo_main": "photos/2020/10/28/home-1.jpg",
+        "photo_1": "photos/2020/10/28/home-inside-1_xjwPd0P.jpg",
+        "photo_2": "photos/2020/10/28/home-inside-2_zZOckz1.jpg",
+        "photo_3": "photos/2020/10/28/home-inside-3_wJe4VGF.jpg",
+        "photo_4": "photos/2020/10/28/home-inside-4_omDFw4y.jpg",
+        "photo_5": "photos/2020/10/28/home-inside-5_Hbc6iDj.jpg",
+        "photo_6": "photos/2020/10/28/home-inside-6_UCtK5cu.jpg",
+        "is_published": true,
+        "list_date": "2020-10-28T21:44:31Z"
+    }
+},
+{
+    "model": "listings.listing",
+    "pk": 2,
+    "fields": {
+        "realtor": 2,
+        "title": "5 M FROZPUR",
+        "address": "5 M FROZPUR",
+        "city": "FROZPUR",
+        "state": "PUNJAB",
+        "zipcode": "137541",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 450000000,
+        "bedrooms": 3,
+        "bathrooms": "2.0",
+        "garage": 1,
+        "sqft": 2025,
+        "lot_size": "1.5",
+        "photo_main": "photos/2020/10/28/home-2.jpg",
+        "photo_1": "photos/2020/10/28/home-inside-1_c4Trg0G.jpg",
+        "photo_2": "photos/2020/10/28/home-inside-5.jpg",
+        "photo_3": "photos/2020/10/28/home-inside-6.jpg",
+        "photo_4": "",
+        "photo_5": "",
+        "photo_6": "",
+        "is_published": true,
+        "list_date": "2020-10-28T21:49:46Z"
+    }
+},
+{
+    "model": "listings.listing",
+    "pk": 3,
+    "fields": {
+        "realtor": 3,
+        "title": "187 woodrow street",
+        "address": "187 woodrow street",
+        "city": "salem",
+        "state": "text",
+        "zipcode": "1213123",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 2423423,
+        "bedrooms": 2,
+        "bathrooms": "2.0",
+        "garage": 1,
+        "sqft": 4530,
+        "lot_size": "33.0",
+        "photo_main": "photos/2020/10/28/home-3.jpg",
+        "photo_1": "photos/2020/10/28/home-inside-1_N7UE16q.jpg",
+        "photo_2": "photos/2020/10/28/home-inside-2_zO5zJ2o.jpg",
+        "photo_3": "photos/2020/10/28/home-inside-3_EikDcHt.jpg",
+        "photo_4": "photos/2020/10/28/home-inside-4_3prfeHN.jpg",
+        "photo_5": "",
+        "photo_6": "",
+        "is_published": true,
+        "list_date": "2020-10-28T21:51:40Z"
+    }
+},
+{
+    "model": "listings.listing",
+    "pk": 4,
+    "fields": {
+        "realtor": 1,
+        "title": "28 Gifford street",
+        "address": "28 GRIFFOD street",
+        "city": "NH",
+        "state": "HIMACHAL",
+        "zipcode": "10001",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 38000,
+        "bedrooms": 3,
+        "bathrooms": "2.5",
+        "garage": 2,
+        "sqft": 3120,
+        "lot_size": "1.5",
+        "photo_main": "photos/2020/10/28/home-4.jpg",
+        "photo_1": "photos/2020/10/28/home-inside-1_bpIN6n9.jpg",
+        "photo_2": "photos/2020/10/28/home-inside-2_dI8qHSL.jpg",
+        "photo_3": "photos/2020/10/28/home-inside-3.jpg",
+        "photo_4": "photos/2020/10/28/home-inside-4_A9Laq8i.jpg",
+        "photo_5": "",
+        "photo_6": "",
+        "is_published": true,
+        "list_date": "2020-10-28T21:53:22Z"
+    }
+},
+{
+    "model": "listings.listing",
+    "pk": 5,
+    "fields": {
+        "realtor": 2,
+        "title": "23b sunny vila",
+        "address": "23b sunny vila",
+        "city": "zen city",
+        "state": "delhi",
+        "zipcode": "133078",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 1235676,
+        "bedrooms": 4,
+        "bathrooms": "2.0",
+        "garage": 4,
+        "sqft": 2137,
+        "lot_size": "1.5",
+        "photo_main": "photos/2020/10/28/home-6.jpg",
+        "photo_1": "photos/2020/10/28/home-inside-1.jpg",
+        "photo_2": "photos/2020/10/28/home-inside-2.jpg",
+        "photo_3": "photos/2020/10/28/home-inside-4.jpg",
+        "photo_4": "",
+        "photo_5": "",
+        "photo_6": "",
+        "is_published": true,
+        "list_date": "2020-10-28T21:55:13Z"
+    }
+},
+{
+    "model": "realtors.realtor",
+    "pk": 1,
+    "fields": {
+        "name": "sunny sharma",
+        "photo": "photos/2020/10/28/profile.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "phone": "7206649454",
+        "email": "sv.sunnysharma@gmail.com",
+        "is_mvp": true,
+        "hire_date": "2020-10-28T21:30:25Z"
+    }
+},
+{
+    "model": "realtors.realtor",
+    "pk": 2,
+    "fields": {
+        "name": "vikrant vir bhalla",
+        "photo": "photos/2020/10/28/vikrant.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "phone": "5555555555",
+        "email": "vikrant@gmail.com",
+        "is_mvp": false,
+        "hire_date": "2020-10-28T21:33:07Z"
+    }
+},
+{
+    "model": "realtors.realtor",
+    "pk": 3,
+    "fields": {
+        "name": "sahil",
+        "photo": "photos/2020/10/28/sahil.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "phone": "555544444445",
+        "email": "sahil@gmail.com",
+        "is_mvp": false,
+        "hire_date": "2020-04-07T21:37:34Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "listing": "28 Gifford street",
+        "listing_id": 4,
+        "name": "sunny sharma",
+        "email": "sv.sunnysharma@gmail.com",
+        "phone": "adasdas",
+        "message": "asdasd",
+        "Contact_date": "2020-11-01T01:52:39.476Z",
+        "user_id": 1
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2020-10-28T16:01:59.499Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "sunny sharma",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2020-10-28T16:07:30.709Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "vikrant vir bhalla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2020-10-28T16:10:20.621Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "sahil",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2020-10-28T16:14:16.405Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "sahil",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hire date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2020-10-28T16:18:17.218Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "15  R govind nagar",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2020-10-28T16:18:32.800Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "15  R govind nagar",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2020-10-28T16:21:38.263Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "5 M FROZPUR",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2020-10-28T16:23:19.725Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "187 woodrow street",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2020-10-28T16:25:10.085Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "28 Gifford street",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2020-10-28T16:27:06.179Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "23b sunny vila",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2020-10-28T16:32:04.762Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "23b sunny vila",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo main\", \"Photo 1\", \"Photo 2\", \"Photo 3\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2020-10-28T16:32:12.099Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "23b sunny vila",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2020-10-28T16:32:49.463Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "28 Gifford street",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo main\", \"Photo 1\", \"Photo 2\", \"Photo 3\", \"Photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2020-10-28T16:34:20.537Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "28 Gifford street",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2020-10-28T16:34:51.873Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "187 woodrow street",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo main\", \"Photo 1\", \"Photo 2\", \"Photo 3\", \"Photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2020-10-28T16:35:22.853Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "5 M FROZPUR",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo main\", \"Photo 1\", \"Photo 2\", \"Photo 3\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2020-10-28T16:36:17.750Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "15  R govind nagar",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo main\", \"Photo 1\", \"Photo 2\", \"Photo 3\", \"Photo 4\", \"Photo 5\", \"Photo 6\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2020-10-28T21:06:28.982Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "23b sunny vila",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2020-10-28T21:06:28.987Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "28 Gifford street",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2020-10-28T21:06:38.608Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "23b sunny vila",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2020-10-28T21:06:38.616Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "28 Gifford street",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is published\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2020-10-30T06:41:15.788Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "sunny sharma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is mvp\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2020-10-30T06:42:20.871Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "vikrant vir bhalla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is mvp\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2020-10-30T06:42:41.737Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "vikrant vir bhalla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is mvp\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2020-10-31T19:37:07.906Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "1",
+        "object_repr": "sunxysharma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2020-10-31T20:04:02.781Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "sunny sharma",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2020-10-31T20:04:02.786Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "sunny sharma",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2020-10-31T20:04:02.787Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "sunny sharma",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2020-10-31T20:22:31.298Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "sunny sharma",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2020-11-02T11:59:12.662Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "vikrant vir bhalla",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add listing",
+        "content_type": 7,
+        "codename": "add_listing"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change listing",
+        "content_type": 7,
+        "codename": "change_listing"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete listing",
+        "content_type": 7,
+        "codename": "delete_listing"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view listing",
+        "content_type": 7,
+        "codename": "view_listing"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add realtor",
+        "content_type": 8,
+        "codename": "add_realtor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change realtor",
+        "content_type": 8,
+        "codename": "change_realtor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete realtor",
+        "content_type": 8,
+        "codename": "delete_realtor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view realtor",
+        "content_type": 8,
+        "codename": "view_realtor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add contact",
+        "content_type": 9,
+        "codename": "add_contact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change contact",
+        "content_type": 9,
+        "codename": "change_contact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete contact",
+        "content_type": 9,
+        "codename": "delete_contact"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view contact",
+        "content_type": 9,
+        "codename": "view_contact"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$WXus6xfYnpw4$GKIoFSWtmaSiXBy2q03GfT8zmM04hJS+aYe+xtEwq2I=",
+        "last_login": "2020-11-02T11:51:39.077Z",
+        "is_superuser": true,
+        "username": "sunxysharma",
+        "first_name": "sunny",
+        "last_name": "sharma",
+        "email": "sv.sunnysharma@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-10-27T19:55:19Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$NPpHs9P0t2cN$bR5S2xxDd5M5cPtritUNCeGKoeavq8m8XvYii96NZqc=",
+        "last_login": "2020-10-31T15:58:51.687Z",
+        "is_superuser": false,
+        "username": "sv.sunnysharma",
+        "first_name": "sunny",
+        "last_name": "sharma",
+        "email": "sunny@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-10-31T15:05:09.605Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "listings",
+        "model": "listing"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "realtors",
+        "model": "realtor"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "contacts",
+        "model": "contact"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "kh1bzp5fkzqvvje6kjne8oned83q293l",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGll2_Kek5wzWer2LAyiW8qkQd4dIKaB9M_NeIsO2trwtNOexirPQ4vS7FcAHTTuod5huXWKf1nksclfkQRd57ZWel8P9O2iwtG-NzitWTjtIFNgnjMGQs2w8DexSSElZjTpyiIqwaAMEbJnMELgqNOL9AdPQN-k:1kZYN9:UdccCDaXx8Wshf8QT7SDEg2J4pnfAtQzRPynx8c31Xw",
+        "expire_date": "2020-11-16T11:51:39.080Z"
+    }
+}
+]
